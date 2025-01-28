@@ -1,0 +1,6 @@
+node_modules
+/build
+/uploads
+data
+docs
+.env
